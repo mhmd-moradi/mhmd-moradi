@@ -4,7 +4,6 @@
 ## I'm a Full Stack Developer
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about GSAP
 - ⚽ I am interested in sports statistical analysis using machine learning
 
 
